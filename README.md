@@ -4,6 +4,7 @@
 
 <img src="https://github.com/PratikFagadiya/CustomSquareProgressbar/blob/master/preview/custom_square_progress_preview.gif" width="350" >
 
+
 # How to use?
 
 ```
